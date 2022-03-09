@@ -24,7 +24,7 @@ Hi, I am Bachitter, a self-taught developer based in beautiful Vancouver, BC wit
 <a href="https://www.polywork.com/bachitterch" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dtl9hbz1e/image/upload/v1646826470/polywork.svg" width="32" height="32" /></a>⠀
 <a href="https://www.linkedin.com/in/bachitterch" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>⠀
   <a href="https://www.github.com/bachitterch" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>⠀
-<a href="https://www.behance.com/bachitterch" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a>⠀
+<a href="https://www.behance.net/bachitterch" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a>⠀
 <a href="https://www.dribbble.com/bachitterch" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a>⠀
   
 
