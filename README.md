@@ -6,9 +6,9 @@ FrontEnd Developer
 
 Hi, I am Bachitter, a self-taught developer based in beautiful Vancouver, BC with a background in Business Administration. I use code to move pixels around and create beautiful websites, visuals, and more. As a curious and self-taught learner, I'm always trying new things and finding ways to improve my skills.
 
-* 🖥️  See my portfolio at [bachitter.dev](http://bachitter.dev)
+* 🖥️  See my portfolio at [bachitter.dev](https://bachitter.dev)
 * ✉️  You can contact me at [me@bachitter.dev](mailto:me@bachitter.dev)
-* 🚀  I'm currently working on [Next.js Notion Blog Template](http://next-notion-template.vercel.app/)
+* 🚀  I'm currently working on [BetterTwitchModView Web App](https://github.com/bachitterch/BetterTwitchModView)
 * 🧠  I'm learning JavaScript and React
 * ⚡  I spend majority of time listening music.
 
