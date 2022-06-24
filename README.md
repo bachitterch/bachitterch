@@ -4,7 +4,7 @@ Hi 👋 My name is Bachitter Chahal
 Full Stack Developer
 --------------------
 
-22 year old self-taught full-stack developer born and raised in Punjab,IN, now living in Canada. Always passionate about minimal yet functional web apps and learning new skills. Other than that I spend my free times playing games or watching NetFlix.
+22 year old self-taught full-stack developer born and raised in Punjab,India, now living in Canada. Always passionate about minimal yet functional web apps and learning new skills. Other than that I spend my free times playing games or watching NetFlix.
 
 * 🌍  I'm based in Vancouver, BC
 * 🖥️  See my portfolio at [bachitter.dev](http://bachitter.dev)
